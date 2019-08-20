@@ -6,4 +6,4 @@
 [虚拟化网络存储软件](virtual_storage.md)
 [大数据压缩加密软件](bigdata.md)
 [开源桌面软件](desktop.md)
-[关于我们]()
+[Github](https://github.com/scutee-401/InternationalCampusDoc)
